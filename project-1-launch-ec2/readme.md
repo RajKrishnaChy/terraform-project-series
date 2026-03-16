@@ -1,4 +1,7 @@
 # 🚀 Terraform Project 1 – Launch EC2 Instance on AWS
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/wzP952YGob4/maxresdefault.jpg)](https://youtu.be/wzP952YGob4)
 
 ## 📌 Project Overview
 
