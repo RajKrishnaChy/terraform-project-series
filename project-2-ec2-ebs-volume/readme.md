@@ -1,5 +1,6 @@
 # 🚀 Terraform Project 2 – EC2 with EBS Volume Attachment
 
+
 ## 📌 Project Overview
 
 This project demonstrates how to provision an **AWS EC2 instance** and attach an additional **EBS (Elastic Block Store) volume** using Terraform.
@@ -21,6 +22,11 @@ The objective of this project is to:
 * Attach the EBS volume to the EC2 instance using Terraform
 
 ---
+## 🎥 Project Demo
+
+▶️ Click the thumbnail below to watch the project demo
+
+[![Watch the video](https://img.youtube.com/vi/y7-XUjt0S2Y/hqdefault.jpg)](https://youtu.be/y7-XUjt0S2Y)
 
 # 🧠 Terraform Concepts Used
 
